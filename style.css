@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  input, textarea, select {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 90%;
+  }
+  
+  button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+  }
+  
+  #project-list {
+    margin-top: 20px;
+  }
+  
